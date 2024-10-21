@@ -6,6 +6,7 @@
 * Start with Command Line Interface
 * User can enter commands using command line options / flags.
 * Data should be stored using CSV files.
+
 # Structure
 
 ```shell
